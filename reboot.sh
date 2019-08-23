@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo reboot
+shutdown -ar now
